@@ -10,6 +10,8 @@ https://learn.microsoft.com/en-us/training/modules/introduction-to-github/
 
 https://learn.microsoft.com/en-us/shows/azure-tips-and-tricks-static-web-apps/
 
+https://github.com/ageron/handson-ml2
+
 Past event
 https://www.youtube.com/watch?v=ctUNRptv22M
 
